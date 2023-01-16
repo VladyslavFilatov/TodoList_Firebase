@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "428395583780",
+    "firebase_url": "https://shiftapp-8535b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "shiftapp-8535b",
+    "storage_bucket": "shiftapp-8535b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428395583780:android:aa9b2eb8068bd9e91fbbb1",
+        "android_client_info": {
+          "package_name": "com.firebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428395583780-201p4g52cjvciohkm26jrmp8mlpato5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILGUM4uf4f_KCAJYikqZaJOjWbgldZ0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428395583780-201p4g52cjvciohkm26jrmp8mlpato5f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "428395583780-cbeig5p7tdqmnu95kl2d6dp9n793ttn6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firebaseproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
